@@ -2,6 +2,10 @@ body {
   font-family: arial, sans-serif;
 }
 
+.weather-app-wrapper {
+  background: rgb(152, 236, 156);
+}
+
 h1 {
   color: #878787;
   font-size: 24px;
